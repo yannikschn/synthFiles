@@ -1,2 +1,2 @@
-.inputs: selfata selfatb selfatc doorbc
+.inputs: a b c d e
 .outputs: gotoa gotob gotoc openbc start
