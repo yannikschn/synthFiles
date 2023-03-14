@@ -1,2 +1,4 @@
 .inputs: a b c d e
 .outputs: gotoa gotob gotoc openbc start
+
+(F(selfatc && F(selfata)))
